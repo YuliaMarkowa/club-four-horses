@@ -1,42 +1,50 @@
 @font-face {
     font-family: 'GolosText';
-    font-style:  normal;
+    font-style: normal;
     font-weight: 400;
     font-display: swap;
-    src: url("./GolosText-Regular.woff2") format("woff2"),
+    src: local("GolosText Regular"),
+         local("GolosText-Regular"),
+         url("./GolosText-Regular.woff2") format("woff2"),
          url("./GolosText-Regular.woff") format("woff");
   }
 
   @font-face {
     font-family: 'GolosText';
-    font-style:  normal;
+    font-style: normal;
     font-weight: 500;
     font-display: swap;
-    src: url("./GolosText-Medium.woff2") format("woff2"),
+    src: local("GolosText Medium"),
+         local("GolosText-Medium"), 
+         url("./GolosText-Medium.woff2") format("woff2"),
          url("./GolosText-Medium.woff") format("woff");
   }
   
   @font-face {
     font-family: 'GolosText';
-    font-style:  normal;
+    font-style: normal;
     font-weight: 600;
     font-display: swap;
-    src: url("./GolosText-SemiBold.woff2") format("woff2"),
+    src: local("GolosText SemiBold"),
+         local("GolosText-SemiBold"),  
+         url("./GolosText-SemiBold.woff2") format("woff2"),
          url("./GolosText-SemiBold.woff") format("woff");
-  }
+     }
 
   @font-face {
      font-family: 'GolosText';
-     font-style:  normal;
+     font-style: normal;
      font-weight: 700;
      font-display: swap;
-     src: url("./GolosText-Bold.woff2") format("woff2"),
+     src: local("GolosText Bold"),
+          local("GolosText-Bold"), 
+          url("./GolosText-Bold.woff2") format("woff2"),
           url("./GolosText-Bold.woff") format("woff");
    }
 
    @font-face {
      font-family: 'Merriweather';
-     font-style:  normal;
+     font-style: normal;
      font-weight: 400;
      font-display: swap;
      src: local("Merriweather Regular"),
@@ -47,7 +55,7 @@
 
    @font-face {
      font-family: 'Merriweather';
-     font-style:  normal;
+     font-style: normal;
      font-weight: 700;
      font-display: swap;
      src: local("Merriweather Bold"),
