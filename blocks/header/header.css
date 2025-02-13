@@ -5,23 +5,3 @@
     display: flex;
     flex-direction: column;
 }
-
-.header__title {
-        font-size: 54px;
-}
-
-.header__description {
-
-}
-
-.header__navigation {
-
-}
-
-.header__button-support {
-
-}
-
-.header__button-about {
-    
-}
