@@ -6,7 +6,7 @@
     src: local("GolosText Regular"),
          local("GolosText-Regular"),
          url("./GolosText-Regular.woff2") format("woff2"),
-         url("./GolosText-Regular.woff") format("woff");
+         url("./fonts/GolosText-Regular.woff") format("woff");
   }
 
   @font-face {
