@@ -1,17 +1,14 @@
 .header__logo-text {
-    display: inline-block;
-    font-family: 'GolosText', 'Arial';
-    font-size: 16.65px;
-    font-weight: bold;
-    width: 147px;
-    line-height: 105%;
-    color: #595653;
-    letter-spacing: 0.1px;
-    text-transform: uppercase;
+  display: inline-block;
+  font-family: 'GolosText', 'Arial';
+  font-size: 16.65px;
+  font-weight: bold;
+  line-height: 105%;
+  letter-spacing: 0.1px;
+  text-transform: uppercase;
+  color: #595653;
 }
 
-.header__logo-text::after {
-  content: "";
-  display: block;  /* Это заставит текст после "Клуб" перейти на новую строку */
-  white-space: nowrap; /* Препятствует разрыву строки внутри */
+.header__logo-text-upper-line {
+  display: block;
 }
