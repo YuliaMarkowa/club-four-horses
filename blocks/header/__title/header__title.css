@@ -1,0 +1,11 @@
+.header__title {
+    display: flex;
+    flex-direction: column;
+    font-family: 'Merriweather', 'Arial';
+    font-size: 60px;
+    font-weight: 400;
+    width: 542px;
+    margin: 62px 0 0 72px;
+    color: #313131;
+    text-transform: uppercase;
+}
