@@ -1,0 +1,9 @@
+.header__button {
+    width: 263px;
+    height: 72px;
+    border-radius: 66px;
+    border: none;
+    font-family: 'GolosText', 'Arial';
+    font-size: 16px;
+    margin-bottom: 130px;
+}
