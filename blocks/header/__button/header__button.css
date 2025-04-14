@@ -2,8 +2,11 @@
     width: 263px;
     height: 72px;
     border-radius: 66px;
-    border: none;
     font-family: 'GolosText', 'Arial';
     font-size: 16px;
     margin-bottom: 130px;
+    border-width: 1px;
+    border-color: #1F1F1F;
+    background-color: #1F1F1F;
+    color: #ffffff;
 }
