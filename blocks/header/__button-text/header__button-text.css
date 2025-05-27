@@ -1,0 +1,6 @@
+.header__button-text {
+    display: inline-block;
+    width: 155px;
+    text-wrap: balance;
+    line-height: 1.3;
+}

@@ -16,4 +16,6 @@
 
 @import url(../blocks/header/__navigation/header__navigation.css);
 @import url(../blocks/header/__button/header__button.css);
-@import url(../blocks/header/__button-support/header__button-support.css);
+@import url(../blocks/header/__button-text/header__button-text.css);
+
+@import url(../blocks/header/_white/header__button_theme_white.css);
