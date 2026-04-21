@@ -19,3 +19,8 @@
 @import url(../blocks/header/__button-text/header__button-text.css);
 
 @import url(../blocks/header/_white/header__button_theme_white.css);
+
+@import url(../blocks/announcement/announcement.css);
+@import url(../blocks/announcement/__viewport/announcement__viewport.css);
+@import url(../blocks/announcement/__list/announcement__list.css);
+@import url(../blocks/announcement/__text/announcement__text.css);
